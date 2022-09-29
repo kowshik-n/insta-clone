@@ -1,0 +1,28 @@
+.UserInfo{
+    margin-top:2em;
+}
+.userInfoAvatar{
+    border-radius: 50%;
+}
+.userTotalStatus > span{
+    margin-right: 1em;
+    font-family: none, serif;
+}
+.userAboutBox > p{
+    margin-top:-5px;
+}
+.Gallery{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.Gallery > img{
+    width: 100%;
+    object-fit: cover;
+    height: 280px;
+    cursor: pointer;
+}
+.ModalImg{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}

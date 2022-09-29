@@ -1,0 +1,21 @@
+.CommentBox{
+    border-bottom: 1px solid lightgray;
+    margin-left: -20px;
+    padding-top:10px;
+}
+.commentInnerBox{
+    margin-left: 38px;
+}
+.CommentBox h6{
+    font-size: 10px;
+}
+.CommentBox p{
+    font-size: 11px;
+    margin-top:-4px
+}
+.CommentBox > img{
+    width: 30px;
+    height:30px;
+    object-fit: cover;
+    position: absolute;
+}

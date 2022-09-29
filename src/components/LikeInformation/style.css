@@ -1,0 +1,25 @@
+.likeInformation {
+    position: absolute;
+    bottom: 10px;
+    border-top: 1px solid lightgray;
+    margin-left: -15px;
+    width: 40%;
+}
+
+.likeInformation > ion-icon {
+    font-size: 1.4em;
+    margin-top: 5px;
+}
+
+.likeInformation > img {
+    width: 20px;
+    height: 20px;
+}
+
+.likeInformation > span {
+    font-size: 0.8em;
+    margin-left: 5px;
+}
+.postDate{
+    color:gray
+}

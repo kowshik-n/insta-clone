@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: whitesmoke;
+}
+.AvatarCircle{
+  border-radius: 50%;
+}
+.container{
+  width:900px
+}
+.appFont{
+  font-family: serif;
+}
+.textBold{
+  font-weight: 600;
+}
+.modal-body{
+  padding:0;
+}
+.modalComments{
+  padding: 1rem;
+}
+.makeBlue{
+  color:blue;
+}

@@ -1,0 +1,18 @@
+.Header{
+    height: 40px;
+    background-color: white;
+    border-bottom: 1px solid gray;
+}
+.headerAvatar, .headerLogo{
+    margin-top:4px;
+}
+.headerLogo {
+    width: 30px;
+    height: 30px;
+}
+.headerAvatar{
+    float: right;
+    height: 32px;
+    width: 32px;
+    border: 1px solid gray;
+}
